@@ -43,7 +43,6 @@
      [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 ### Extra Pins
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heaty566&repo=mychess&theme=radical)](https://github.com/Heaty566/mychess)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heaty566&repo=java-ci-cd-kit&theme=radical)](https://github.com/Heaty566/java-ci-cd-kit)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heaty566&repo=thehood&theme=radical)](https://github.com/Heaty566/thehood)
