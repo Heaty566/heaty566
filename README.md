@@ -61,6 +61,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=heaty566&layout=compact&theme=radical&langs_count=10" />
 </a>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heaty566&theme=radical	" alt="heaty566"/>
-</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heaty566&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
