@@ -62,5 +62,5 @@
 </a>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heaty566&theme=radical	" alt="heaty56"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heaty566&theme=radical	" alt="heaty566"/>
 </p>
