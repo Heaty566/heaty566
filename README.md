@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hello, Welcome to my Github Profile!</b><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /></h1>
 </p>
 <p>
-  <h4 align="center"><b>"Highly adaptable, Problem solver "</b></h4>
+  <h4 align="center"><b>"Highly adaptable person, Adept problem solver"</b></h4>
 </p>
 
 <p align="center">
