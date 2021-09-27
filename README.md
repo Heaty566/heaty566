@@ -27,3 +27,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=heaty566&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+<p align="center">
+   <a href="https://github.com/heaty566"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=heaty566&custom_title=Pham%20Vinh%20Nhan's%20Contribution%20Graph&theme=rogue" /></a>
+</p>
