@@ -13,7 +13,7 @@
 
 </p>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCHTHyBTGhDAz_iJtI9tVu2w/videos">
+<a href="https://www.youtube.com/channel/@heaty566/videos">
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCHTHyBTGhDAz_iJtI9tVu2w?style=social">
 </a>
 </p>
